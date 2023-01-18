@@ -1,4 +1,4 @@
-# Waves-PHP
+# MDMCOIN-PHP
 
 [![packagist](https://img.shields.io/packagist/v/waves/client.svg)](https://packagist.org/packages/waves/client)
 [![php-version](https://img.shields.io/packagist/php-v/waves/client.svg)](https://packagist.org/packages/waves/client)
