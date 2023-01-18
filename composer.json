@@ -1,8 +1,8 @@
 {
-    "name": "waves/client",
-    "description": "PHP client library for interacting with Waves blockchain platform",
+    "name": "mdmcoin/client",
+    "description": "PHP client library for interacting with MDM blockchain platform",
     "keywords": [ "waves", "wavesplatform", "blockchain", "client" ],
-    "homepage": "https://github.com/wavesplatform/waves-php",
+    "homepage": "https://github.com/mdmcoin/mdmcoin-php",
     "type": "library",
     "license": "MIT",
     "authors": [
