@@ -12,7 +12,7 @@ PHP client library for interacting with Waves blockchain platform.
 
 ## Installation
 ```bash
-composer require waves/client
+composer require mdmcoin/client
 ```
 
 ## Usage
