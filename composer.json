@@ -1,8 +1,8 @@
 {
-    "name": "mdmcoin/client",
-    "description": "PHP client library for interacting with MDM blockchain platform",
+    "name": "bitsbr/client",
+    "description": "PHP client library for interacting with BITSBR blockchain platform",
     "keywords": [ "waves", "wavesplatform", "blockchain", "client" ],
-    "homepage": "https://github.com/mdmcoin/mdmcoin-php",
+    "homepage": "https://github.com/bitsbr/BITS-php",
     "type": "library",
     "license": "MIT",
     "authors": [
