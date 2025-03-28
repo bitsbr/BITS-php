@@ -1,4 +1,4 @@
-# MDMCOIN-PHP
+# BITSBR-PHP
 
 [![packagist](https://img.shields.io/packagist/v/waves/client.svg)](https://packagist.org/packages/waves/client)
 [![php-version](https://img.shields.io/packagist/php-v/waves/client.svg)](https://packagist.org/packages/waves/client)
@@ -12,7 +12,7 @@ PHP client library for interacting with Waves blockchain platform.
 
 ## Installation
 ```bash
-composer require mdmcoin/client
+composer require bitsbr/client
 ```
 
 ## Usage
