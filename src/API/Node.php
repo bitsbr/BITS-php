@@ -32,10 +32,10 @@ use Waves\Transactions\Transaction;
 
 class Node
 {
-    const MAINNET = "https://nodes.mdmcoin.com";
-    const TESTNET = "https://nodes-testnet.mdmcoin.com";
-    const STAGENET = "https://nodes-stagenet.mdmcoin.com";
-    const LOCAL = "http://127.0.0.1:7879";
+    const MAINNET = "https://nodes.bitsbr.org";
+    const TESTNET = "https://nodes-testnet.bitsbr.org";
+    const STAGENET = "https://nodes-stagenet.bitsbr.org";
+    const LOCAL = "http://127.0.0.1:9899";
 
     private \deemru\WavesKit $wk;
     private ChainId $chainId;
