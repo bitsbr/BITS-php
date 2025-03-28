@@ -18,8 +18,12 @@ use Waves\Util\Functions;
 ## MAIN CONFIG
 
 # working on the TESTNET
-WavesConfig::chainId( ChainId::TESTNET() );
-$node = Node::TESTNET();
+# WavesConfig::chainId( ChainId::TESTNET() );
+# $node = Node::TESTNET();
+
+# working on the MAINNET
+WavesConfig::chainId( ChainId::MAINNET() );
+$node = Node::MAINNET();
 
 ## CREATE NEW ACCOUNT
 
